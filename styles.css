@@ -133,3 +133,15 @@ iframe {
     color: white;
     font-weight: 600;
 }
+
+@media only screen and (min-width: 1450px) {
+    .main{
+       width: 1440px; 
+       margin: auto
+    }
+
+    nav {
+        width: 1440px; 
+        margin: auto
+     }
+}
